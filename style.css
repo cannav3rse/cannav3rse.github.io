@@ -43,7 +43,8 @@ html, body {
 .center-form {
     position: absolute;
     left: 50%;
-    top: 50%;
+    top: calc(50% - 50px);
+    margin-bottom: 50px;
     transform: translate(-50%,-50%);
     max-width: 600px;
     width: 100%;
