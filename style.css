@@ -17,6 +17,9 @@ html {
   -webkit-text-size-adjust: 100%; 
 }
 
+html, body {
+    background-color: #010811;
+}
 .full-image-wrapper {
     width: 100%;
     height: 100vh;
